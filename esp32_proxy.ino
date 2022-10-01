@@ -10,6 +10,8 @@
   Note: only allows for 256 chars in first line of HTTP request header.
 
   Randy Almand | ralmand@gmail.com | 2022-10-01
+
+  Espressif WIFI docs: https://espressif-docs.readthedocs-hosted.com/projects/arduino-esp32/en/latest/api/wifi.html
 */
 #include <WiFi.h>
 #include <Ethernet.h>
