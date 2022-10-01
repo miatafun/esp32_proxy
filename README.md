@@ -10,6 +10,7 @@ Wifi to ethernet proxy using an ESP32 with ethernet. Primarily used to access se
 Built and tested with HUZZAH32 ESP32 Feather Board & Ethernet Feather Wing.  
 [Adafruit HUZZAH32-ESP32 Feather Board] (https://www.adafruit.com/product/3405)
 [Adafruit Ethernet FeatherWing] (https://www.adafruit.com/product/3201)
+
 Approximate hardware cost (2022-10-01): $40 USD + tax and shipping.
 
 ## How to use
